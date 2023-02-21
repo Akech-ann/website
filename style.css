@@ -1,0 +1,228 @@
+.image{
+    width: 2px;
+    float: left;
+}
+
+
+
+.navigation{
+    float: right;
+    font-weight: 900;
+    margin-top: -2em;
+    
+}
+.navigation ul li{
+    font-weight: bold;
+    display: inline-block;
+    justify-content: right;
+    list-style: none;
+    text-decoration: none;
+   padding: 1px 5px 5px 0px;
+   margin-top: -20em;
+   
+
+    
+}
+.topic{
+    text-align: center;
+    padding: 5px;
+}
+
+
+  .c{
+      text-align: center;
+      padding-top: 1px;
+      padding-bottom: 1px;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      
+      
+      
+  }
+  .w{
+      color: lightblue;
+
+  }
+  .x{
+      text-align: center;
+      margin-left: 20%;
+  }
+.y{
+    text-align: center;
+}
+#form{
+
+    text-align: center;
+    padding: 5px 0 5px;
+    background-color: blue;
+
+}
+
+.image{
+    width: 100%;
+    
+}
+.logo{
+    width:5% ;
+}
+.pic{
+    width: 5%;
+}
+.logo2{
+    width: 5%;
+}
+.logo1{
+    width: 5%;
+}
+.w{
+    width: 10%;
+    
+}
+.x{
+    text-align: center;
+    border-top: 100%;
+}
+.y{
+    color: blue;
+}
+
+#www{
+    width: 20%;
+}
+.r{
+    color: lightgreen;
+}
+.z{
+    color: lightskyblue;
+}
+.container{
+    border: 40px solid;
+    border-bottom: none;
+    text-decoration: black;
+    color: black;
+    border-color: blue;
+
+}
+
+
+
+
+
+
+
+.ba{
+    font-weight: bold;
+}
+.be{
+    font-weight: bold;
+}
+.bi{
+    font-weight: bold;
+}
+.ri{
+    text-align: center;
+    background-color: cyan;
+    border-radius: 5px;
+    width: 140%;
+    height: 50%;
+}
+.re{
+    text-align: center;
+    background-color:darkgoldenrod;
+    border-radius: 5px;
+    width: 80%;
+    height: 200%;
+
+}
+.ra{
+    text-align: center;
+    background-color:darksalmon;
+    border-radius: 5px;
+    width: 100%;
+    height: 110%; 
+
+}
+
+.ann1{
+    display: flex;
+    float: right;
+    justify-content: right;
+    position: absolute;
+    gap: 2%;
+    margin-left: 70%;
+   
+}
+.pipi{
+    float: right;
+    justify-content: right;
+    display: flex;
+    gap: 10%;
+}
+.web{
+    display: flex;
+    margin-left: 50%;
+}
+.wel{
+display: flex;
+justify-content: right;
+   
+}
+.adhel{
+    width: 10%;
+    background-color:lightblue;
+    border-radius: 5px;
+    height: 10%;
+    padding: 20px;
+    margin: 30px;
+}
+.ayen{
+    width: 10%;
+    background-color:skyblue;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px;
+    
+
+}
+.chol{
+    width: 10%;
+    background-color:darksalmon;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 30px;
+}
+.shoti{
+    font-weight: bold;
+    font-size: 24px;
+}
+.ann2{
+    background-color: blue;
+    font-size: 20px;
+}
+.wew{
+    background-color: blue;
+}
+.nap{
+    color: blue;
+    
+}
+.nep{
+    color: orange;
+   
+}
+.nip{
+    color: green;
+  
+}
+.bab{
+    font-weight: bold;
+}
+.beb{
+    font-weight: bold;
+}
+.bib{
+    font-weight: bold;
+}
+body{
+    text-decoration: black;
+}
